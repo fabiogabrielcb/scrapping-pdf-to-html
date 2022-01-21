@@ -7,7 +7,7 @@
 # Install the dependencies
 
 ```
-npm start
+npm install
 ```
 
 # Run
