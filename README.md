@@ -4,19 +4,19 @@
 -   And, you can see, the power of web scrapping
 -   This project was made with TypeScript :heart:
 
-# Setup
+## Setup
 
 ```
 npm install ts-node-dev -g
 ```
 
-# Install the dependencies
+## Install the dependencies
 
 ```
 npm install
 ```
 
-# Run
+## Run
 
 ```
 npm start
