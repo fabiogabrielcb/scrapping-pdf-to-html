@@ -1,0 +1,20 @@
+{
+  "name": "pdf-to-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node-dev src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^8.0.0",
+    "puppeteer": "^13.1.1"
+  },
+  "devDependencies": {
+    "@types/download": "^8.0.1",
+    "typescript": "^4.5.5"
+  }
+}
